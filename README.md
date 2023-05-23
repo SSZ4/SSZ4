@@ -37,13 +37,12 @@
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=SSZ4)](https://github.com/ryo-ma/github-profile-trophy)
   
-</div>
-
-<p align= 'center'>
+  <p align= 'center'>
    백준 티어  
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjinzzang21)](https://solved.ac/sjinzzang21/)
 </p>
  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjinzzang21)](https://solved.ac/sjinzzang21/)
+</div>
+
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer&text=Carpe%20diem!&fontSize=90)
