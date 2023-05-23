@@ -41,6 +41,7 @@
 
 <p align= 'center'>
    백준 티어  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjinzzang21)](https://solved.ac/sjinzzang21/)
 </p>
  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjinzzang21)](https://solved.ac/sjinzzang21/)
