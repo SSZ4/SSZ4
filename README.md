@@ -39,4 +39,10 @@
   
 </div>
 
+<p align= 'center'>
+   백준 티어  
+</p>
+ 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디/)
+
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer&text=Carpe%20diem!&fontSize=90)
